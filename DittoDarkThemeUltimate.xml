@@ -1,0 +1,47 @@
+<Ditto_Theme_File Version = "1" Author = "Psychopath" Notes = "UltimatePsychoTheme">
+
+	<CaptionLeft>RGB(59, 59, 59)</CaptionLeft>
+	<CaptionRight>RGB(59, 59, 59)</CaptionRight>	
+	
+	<CaptionLeftTopMost>RGB(68, 71, 90)</CaptionLeftTopMost>
+	<CaptionRightTopMost>RGB(255, 184, 108)</CaptionRightTopMost>
+	
+	<CaptionLeftNotConnected>RGB(255, 85, 85)</CaptionLeftNotConnected>
+	<CaptionRightNotConnected>RGB(255, 184, 108)</CaptionRightNotConnected>
+	
+	<CaptionTextColor>RGB(255, 255, 255)</CaptionTextColor>
+	
+	<ListBoxOddRowsBG>RGB(25,25,25)</ListBoxOddRowsBG>
+	<ListBoxEvenRowsBG>RGB(47,47,47)</ListBoxEvenRowsBG>
+	
+	<ListBoxOddRowsText>RGB(248, 248, 242)</ListBoxOddRowsText>
+	<ListBoxEvenRowsText>RGB(248, 248, 242)</ListBoxEvenRowsText>
+	
+	<ListBoxSelectedBG>RGB(218,218,218)</ListBoxSelectedBG>
+	<ListBoxSelectedNoFocusBG>RGB(230, 230, 230)</ListBoxSelectedNoFocusBG>
+	
+	<ListBoxSelectedText>RGB(0, 0, 0)</ListBoxSelectedText>
+	<ListBoxSelectedNoFocusText>RGB(212,212,212)</ListBoxSelectedNoFocusText>	
+	
+	<Border>RGB(255,127,0)</Border>
+	<BorderTopMost>RGB(139, 233, 253)</BorderTopMost>
+	<BorderNotConnected>RGB(255, 85, 85)</BorderNotConnected>	
+	
+	<GroupTreeBG>RGB(21, 21, 21)</GroupTreeBG>
+	<GroupTreeText>RGB(255, 255, 255)</GroupTreeText>
+	
+	<CaptionSize>20</CaptionSize>
+	<CaptionFontSize>18</CaptionFontSize>
+
+	<DescriptionWindowBG>RGB(40, 42, 54)</DescriptionWindowBG>
+	<DescriptionWindowText>RGB(248, 248, 242)</DescriptionWindowText>
+	
+	<MainWindowBG>RGB(25,25,25)</MainWindowBG>
+	<ClipPastedColor>RGB(255, 184, 108)</ClipPastedColor>
+
+	<SearchTextBoxFocusBG>RGB(40, 42, 54)</SearchTextBoxFocusBG>
+	<SearchTextBoxFocusText>RGB(255, 255, 255)</SearchTextBoxFocusText>
+	<SearchTextBoxFocusBorder>RGB(98, 114, 164)</SearchTextBoxFocusBorder>
+	<SearchTextHighlight>RGB(255,132,0)</SearchTextHighlight>
+
+</Ditto_Theme_File>
